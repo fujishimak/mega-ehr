@@ -1,4 +1,4 @@
 mega-ehr
 ========
 
-Test repo
+Test repo created by Joshua Thomas!
